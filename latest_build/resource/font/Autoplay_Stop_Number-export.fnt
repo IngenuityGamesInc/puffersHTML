@@ -1,0 +1,16 @@
+<font>
+	<info face="\\Ig-srv005\gaming_graphics\Plank Gaming\Puffer Goes Wild - PG0002\4_Delivery_Package\Mobile\Buttons\Autoplay_Stop_Number-export" size="80" />
+	<common lineHeight="80" scaleW="150" scaleH="75" pages="1" />
+	<pages>
+		<page id="0" file="\\Ig-srv005\gaming_graphics\Plank Gaming\Puffer Goes Wild - PG0002\4_Delivery_Package\Mobile\Buttons\Autoplay_Stop_Number-export.png" />
+	</pages>
+	<chars count="12">
+		<char id="48" x="0" y="25" width="16" height="24" xoffset="0" yoffset="56" xadvance="17" /><!-- 0 -->
+		<char id="49" x="0" y="50" width="12" height="24" xoffset="0" yoffset="56" xadvance="13" /><!-- 1 -->
+		<char id="50" x="0" y="0" width="149" height="24" xoffset="0" yoffset="56" xadvance="150" /><!-- 2 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

@@ -1,0 +1,84 @@
+{"frames": {
+
+"Checkbox_Normal.png":
+{
+	"frame": {"x":1,"y":1,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":63},
+	"sourceSize": {"w":62,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Checkbox_Over.png":
+{
+	"frame": {"x":64,"y":1,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":63},
+	"sourceSize": {"w":62,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Checkbox_Press.png":
+{
+	"frame": {"x":127,"y":1,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":63},
+	"sourceSize": {"w":62,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Continue_Normal.png":
+{
+	"frame": {"x":190,"y":1,"w":282,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":93},
+	"sourceSize": {"w":282,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Continue_Over.png":
+{
+	"frame": {"x":1,"y":95,"w":283,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":93},
+	"sourceSize": {"w":283,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Continue_Pressed.png":
+{
+	"frame": {"x":1,"y":189,"w":261,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":261,"h":87},
+	"sourceSize": {"w":282,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pagination_1.png":
+{
+	"frame": {"x":263,"y":189,"w":35,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":35,"h":29},
+	"sourceSize": {"w":35,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pagination_2.png":
+{
+	"frame": {"x":299,"y":189,"w":35,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":35,"h":29},
+	"sourceSize": {"w":35,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro_Assets.png",
+	"format": "RGBA8888",
+	"size": {"w":473,"h":277},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d33da5358225c7d71344e03701f2a74b:dcbdd3f53069f4109cc38023faffdeb7:770dbc25aaeaf5f81536b8e9879a4ca0$"
+}
+}

@@ -1,0 +1,356 @@
+
+basegame_idle.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_bg_shine
+  rotate: false
+  xy: 2, 330
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+basegame_coral_1
+  rotate: true
+  xy: 265, 37
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+basegame_coral_10
+  rotate: true
+  xy: 1532, 961
+  size: 61, 182
+  orig: 61, 182
+  offset: 0, 0
+  index: -1
+basegame_coral_11
+  rotate: true
+  xy: 1284, 588
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1
+basegame_coral_12
+  rotate: false
+  xy: 267, 101
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+basegame_coral_13
+  rotate: false
+  xy: 2, 692
+  size: 1282, 330
+  orig: 1282, 330
+  offset: 0, 0
+  index: -1
+basegame_coral_14
+  rotate: false
+  xy: 346, 195
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+basegame_coral_15
+  rotate: false
+  xy: 445, 199
+  size: 97, 129
+  orig: 97, 129
+  offset: 0, 0
+  index: -1
+basegame_coral_16
+  rotate: true
+  xy: 1195, 284
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+basegame_coral_17
+  rotate: false
+  xy: 1371, 907
+  size: 159, 115
+  orig: 159, 115
+  offset: 0, 0
+  index: -1
+basegame_coral_18
+  rotate: false
+  xy: 1286, 773
+  size: 83, 249
+  orig: 83, 249
+  offset: 0, 0
+  index: -1
+basegame_coral_19
+  rotate: false
+  xy: 785, 230
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+basegame_coral_2
+  rotate: false
+  xy: 623, 231
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+basegame_coral_20
+  rotate: false
+  xy: 79, 2
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+basegame_coral_21
+  rotate: true
+  xy: 725, 228
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+basegame_coral_22
+  rotate: false
+  xy: 1383, 742
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+basegame_coral_23
+  rotate: false
+  xy: 1284, 403
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+basegame_coral_24
+  rotate: true
+  xy: 168, 5
+  size: 29, 93
+  orig: 29, 93
+  offset: 0, 0
+  index: -1
+basegame_coral_25
+  rotate: true
+  xy: 979, 282
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+basegame_coral_26
+  rotate: true
+  xy: 2, 12
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+basegame_coral_27
+  rotate: true
+  xy: 1128, 263
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+basegame_coral_28
+  rotate: false
+  xy: 1520, 859
+  size: 9, 46
+  orig: 9, 46
+  offset: 0, 0
+  index: -1
+basegame_coral_29
+  rotate: false
+  xy: 2, 112
+  size: 75, 216
+  orig: 75, 216
+  offset: 0, 0
+  index: -1
+basegame_coral_3
+  rotate: true
+  xy: 732, 277
+  size: 49, 90
+  orig: 49, 90
+  offset: 0, 0
+  index: -1
+basegame_coral_30
+  rotate: true
+  xy: 1716, 963
+  size: 59, 176
+  orig: 59, 176
+  offset: 0, 0
+  index: -1
+basegame_coral_31
+  rotate: false
+  xy: 1353, 665
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+basegame_coral_32
+  rotate: true
+  xy: 1284, 329
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+basegame_coral_33
+  rotate: true
+  xy: 1128, 283
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+basegame_coral_34
+  rotate: true
+  xy: 2013, 984
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+basegame_coral_35
+  rotate: true
+  xy: 544, 204
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+basegame_coral_36
+  rotate: false
+  xy: 623, 278
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+basegame_coral_37
+  rotate: false
+  xy: 168, 36
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+basegame_coral_38
+  rotate: false
+  xy: 79, 167
+  size: 107, 161
+  orig: 107, 161
+  offset: 0, 0
+  index: -1
+basegame_coral_4
+  rotate: false
+  xy: 1371, 784
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+basegame_coral_5
+  rotate: false
+  xy: 1058, 263
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+basegame_coral_6
+  rotate: true
+  xy: 824, 277
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+basegame_coral_7
+  rotate: true
+  xy: 346, 171
+  size: 22, 96
+  orig: 22, 96
+  offset: 0, 0
+  index: -1
+basegame_coral_8
+  rotate: true
+  xy: 1532, 914
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+basegame_coral_9
+  rotate: true
+  xy: 79, 117
+  size: 48, 186
+  orig: 48, 186
+  offset: 0, 0
+  index: -1
+basegame_shadow_10
+  rotate: false
+  xy: 131, 2
+  size: 35, 113
+  orig: 35, 113
+  offset: 0, 0
+  index: -1
+basegame_shadow_11
+  rotate: true
+  xy: 1284, 494
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+basegame_shadow_17
+  rotate: false
+  xy: 1371, 810
+  size: 147, 95
+  orig: 147, 95
+  offset: 0, 0
+  index: -1
+basegame_shadow_18
+  rotate: false
+  xy: 267, 169
+  size: 77, 159
+  orig: 77, 159
+  offset: 0, 0
+  index: -1
+basegame_shadow_20
+  rotate: true
+  xy: 1894, 971
+  size: 51, 117
+  orig: 51, 117
+  offset: 0, 0
+  index: -1
+basegame_shadow_29
+  rotate: false
+  xy: 188, 167
+  size: 77, 161
+  orig: 77, 161
+  offset: 0, 0
+  index: -1
+basegame_shadow_3
+  rotate: false
+  xy: 1665, 916
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+basegame_shadow_32
+  rotate: true
+  xy: 1286, 692
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+basegame_shadow_33
+  rotate: true
+  xy: 901, 279
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+basegme_rays
+  rotate: false
+  xy: 644, 328
+  size: 638, 362
+  orig: 638, 362
+  offset: 0, 0
+  index: -1
+common_star_spark
+  rotate: false
+  xy: 842, 225
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1

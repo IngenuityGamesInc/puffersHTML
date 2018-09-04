@@ -1,0 +1,512 @@
+{
+  "lbl_Message_Spin": {
+    "text": "PRESS SPIN TO PLAY"
+  },
+  "lbl_Message_luck": {
+    "text": "GOOD LUCK!"
+  },
+  "lbl_Message_totalWin": {
+    "text": "TOTAL WIN: %totalWin%"
+  },
+  "lbl_Message_LineWinMessage": {
+    "text": "LINE %paylines% WINS %amount%"
+  },
+  "lbl_Message_AutoPlay_Activated": {
+    "text": "AUTO PLAY ACTIVATED"
+  },
+  "lbl_Message_AutoPlay_STOPPED": {
+    "text": "AUTO PLAY STOPPED"
+  },
+  "betLabel_txt": {
+    "text": "SPIN"
+  },
+  "pickObjects_Label": {
+    "text": "PICK     OF THE     OBJECTS"
+  },
+  "pickObjects_Label1": {
+    "text": "1"
+  },
+  "pickObjects_Label2": {
+    "text": "3"
+  },
+  "sellItem_Label": {
+    "text": "PICK A PLACE TO SELL YOUR ITEM"
+  },
+  "for_saleLabel": {
+    "text": "FOR SALE"
+  },
+
+  "cbs_forSaleLabel": {
+    "text": "FOR SALE"
+  },
+  "current_bid": {
+    "text": "CURRENT BID"
+  },
+
+  "welcomeText_CarBootBonus": {
+    "text": "PICK A CUSTOMER TO RECEIVE AN OFFER"
+  },
+
+  "PickAgain_Message": {
+    "text": "PICK AGAIN"
+  },
+
+  "welcomeText_AuctionBonus": {
+    "text": "AUCTION"
+  },
+
+  "started_AuctionText": {
+    "text": "STARTED"
+  },
+
+  "finalOffer_TextLabel": {
+    "text": "YOUR FINAL OFFER IS"
+  },
+
+  "congratulation_Intro": {
+    "text": "CONGRATULATIONS!"
+  },
+
+  "bonus_Win_label": {
+    "text": "Total Bonus Win"
+  },
+
+  "You_Have_WOn_label": {
+    "text": "You Have Won"
+  },
+
+  "totalWin_Intro": {
+    "text": "Total Win"
+  },
+  "reject_text": {
+    "text": "REJECT"
+  },
+  "accept_text": {
+    "text": "ACCEPT"
+  },
+  "continue_button_intro": {
+    "text": "CONTINUE"
+  },
+  "betLabel_StopTxt": {
+    "text": "STOP"
+  },
+  "balancemeter_Text": {
+    "text": "BALANCE"
+  },
+  "totalbetmeter_Text": {
+    "text": "TOTAL BET"
+  },
+  "betmeter_Text": {
+    "text": "BET"
+  },
+  "paytable_Text": {
+    "text": "PAYTABLE"
+  },
+  "menu_Text": {
+    "text": "MENU"
+  },
+  "totalStake_Text": {
+    "text": "TOTAL STAKE"
+  },
+  "settingCloseBtnText": {
+    "text": "CLOSE"
+  },
+  "lbl_auto_play": {
+    "text": "AUTOPLAY"
+  },
+  "lbl_MegaWin": {
+    "text": "SUPER BIG WIN"
+  },
+  "lbl_bigwin": {
+    "text": "BIG WIN"
+  },
+  "select_auto_play_lbl": {
+    "text": "SELECT THE NUMBER OF SPINS"
+  },
+  "game_version_lbl": {
+    "text": "GAME VERSION -"
+  },
+  "lbl_5OfAKind": {
+    "text": "FIVE OF KIND"
+  },
+  "paidmeter_Text": {
+    "text": "PAID"
+  },
+  "paidMeter_changedText": {
+    "text": "WIN PAID"
+  },
+  "winning_Label": {
+    "text": "WINNINGS"
+  },
+  "lineId_Text": {
+    "text": "LINES"
+  },
+  "totalWinMeter_Text": {
+    "text": "TOTAL WIN"
+  },
+  "intro_continue_button": {
+    "text": "CONTINUE"
+  },
+  "lbl_continue_button": {
+    "text": "CONTINUE"
+  },
+  "paytable_1_text_01": {
+    "text": "PAYTABLE"
+  },
+  "paytable_1_text_1": {
+    "text": "3 OR MORE BONUS SYMBOL WILL"
+  },
+  "paytable_1_text_2": {
+    "text": "TRIGGER THE"
+  },
+  "paytable_1_text_3": {
+    "text": "ATTIC BONUS."
+  },
+  "paytable_1_text_4": {
+    "text": "5x 4x 3x"
+  },
+  "paytable_1_text_5": {
+    "text": "500 150 50"
+  },
+  "paytable_1_text_6": {
+    "text": "5x 4x 3x "
+  },
+  "paytable_1_text_7": {
+    "text": "500 150 50 "
+  },
+  "paytable_1_text_8": {
+    "text": "5x 4x 3x "
+  },
+  "paytable_1_text_9": {
+    "text": "250 100 40 "
+  },
+  "paytable_1_text_10": {
+    "text": "5x 4x 3x "
+  },
+  "paytable_1_text_11": {
+    "text": "200 60 20 "
+  },
+  "paytable_3_text_1": {
+    "text": "PAYLINES"
+  },
+
+  "paytable_1_text_12": {
+    "text": "ALL AWARDS ARE MULTIPLES OF LINE BET AND PAY FROM LEFT TO RIGHT."
+  },
+  "paytable_1_text_13": {
+    "text": "ONLY THE HIGHEST WIN ON A PAYLINE IS PAID FOR THAT PAYLINE."
+  },
+  "paytable_2_text_2": {
+    "text": "160 48 16 "
+  },
+  "paytable_2_text_6": {
+    "text": "80 24 8"
+  },
+  "paytable_2_text_9": {
+    "text": "50 15 5"
+  },
+  "paytable_2_text_7": {
+    "text": "50 15 5"
+  },
+  "paytable_2_text_4": {
+    "text": "120 36 12 "
+  },
+  "paytable_2_text_8": {
+    "text": "100 30 10 "
+  },
+  "paytable_1_text_14": {
+    "text": "BACK TO GAME"
+  },
+  "paytable_1_text_15": {
+    "text": "ACTS AS WILD AND SUBSTITUTES FOR"
+  },
+  "paytable_1_text_16": {
+    "text": "All SYMBOLS."
+  },
+  "paytable_1_text_17": {
+    "text": "PAYS FROM LEFT TO RIGHT ONLY ON PAYLINES."
+  },
+  "paytable_4_text_1": {
+    "text": "3, 4 OR 5 BONUS SYMBOLS IN VIEW TRIGGER THE ATTIC BONUS."
+  },
+  "paytable_4_text_2": {
+    "text": "PICK A HIGHLIGHTED ITEM FROM THE ATTIC."
+  },
+  "paytable_4_text_3": {
+    "text": "CHOOSE TO SELL IT AT THE CARBOOT SALE OR AUCTION."
+  },
+  "paytable_4_text_4": {
+    "text": "IN THE CAR BOOT SALE ONE OF FOUR CUSTOMER WILL MAKE AN OFFER FOR THE ITEM THAT CAN EITHER BE ACCEPTED OR REJECTED. IF REJECTED THE NEXT CUSTOMER WILL MAKE ANOTHER OFFER. THIS CARRIES ON UNTIL EITHER AN OFFER IS ACCEPTED OR THREE ARE REJECTED, IN WHICH CASE THE VALUE OF THE FOURTH OFFER WILL BE AWARDED."
+  },
+  "paytable_4_text_5": {
+    "text": "AT THE AUCTION, BIDS INCREASE UNTIL THE ITEM IS SOLD."
+  },
+  "paytable_4_text_6": {
+    "text": "THE ATTIC BONUS WIN IS THE VALUE THAT THE ITEM HAS BEEN SOLD FOR."
+  },
+  "pageFour_Text_Logo": {
+    "text": "ATTIC BONUS"
+  },
+  "pageFive_Text_Logo": {
+    "text": "WINDFALL BONUS"
+  },
+  "paytable_5_text_1": {
+    "text": "WHEN THE SAME SYMBOL (INCLUDING WILD SUBSTITUTIONS) APPEAR ON 3, 4 OR 5 CONSECUTIVE REELS"
+  },
+  "paytable_5_text_2": {
+    "text": "FROM LEFT TO RIGHT BUT ARE NOT ON A PAYLINE, THERE IS A CHANCE OF A WINDFALL BONUS AWARD. THE"
+  },
+  "paytable_5_text_3": {
+    "text": "AWARD IS FOR THE NUMBER OF CONSECUTIVE REELS AND DEFINED BY THE PAYTABLE BELOW"
+  },
+  "paytable_5_text_4": {
+    "text": "ALL AWARDS ARE MULTIPLES OF LINE BET"
+  },
+  "pageSix_Text_Logo": {
+    "text": "GENERAL RULES"
+  },
+  "paytable_6_text_1": {
+    "text": "THE TOTAL STAKE IS SPLIT EQUALLY BETWEEN 20 PAYLINES TO GIVE THE LINE BET."
+  },
+  "paytable_6_text_2": {
+    "text": "ALL AWARDS PAY FOR WINNING COMBINATIONS FROM LEFT TO RIGHT ON PAYLINES ONLY, EXCEPT WINDFALL BONUS AND ATTIC BONUS WINS."
+  },
+  "paytable_6_text_3": {
+    "text": "ONLY THE HIGHEST WIN ON A PAYLINE IS PAID FOR THAT PAYLINES."
+  },
+  "paytable_6_text_4": {
+    "text": "LINE WIN AWARDS AND WINDFALL BONUS WINS ARE EXPRESSED AS MULTIPLIERS OF LINE BET."
+  },
+  "paytable_6_text_6": {
+    "text": "THE LONG TERM PAYBACK FOR THIS GAME IS 95.5%."
+  },
+  "paytable_6_text_7": {
+    "text": "MALFUNCTION VOIDS ALL PAYS AND PLAYS."
+  },
+  "pageSeven_Text_Logo": {
+    "text": "KEYBOARD SHORTCUTS"
+  },
+  "paytable_7_text_1": {
+    "text": "ALL SINGLE ACTIVITY BUTTONS(E.G. 'CONTINUE', 'CLICK TO START', ETC.)CAN BE SELECTED BY PRESSING SPACE BAR OR ENTER KEY."
+  },
+  "paytable_7_text_2": {
+    "text": "TO GO TO PAYTABLE DIRECTLY, PRESS 'I' KEY. TO NAVIGATE THE PAGES, USE LEFT RIGHT ARROW KEYS. PRESSING 'I' KEY AGAIN WILL EXIT THE PAYTABLE."
+  },
+  "lbl_megawin": {
+    "text": "MEGA WIN"
+  },
+  "lbl_GigWin": {
+    "text": "MEGA BIG WIN"
+  },
+  "lbl_Stop_txt": {
+    "text": "STOP"
+  },
+  "lbl_stop_btn": {
+    "text": "STOP"
+  },
+  "unsupportedDeviceErrorText": {
+    "text": "We have detected an unsupported browser, Please contact the operator for support on this."
+  },
+  "5": {
+    "text": 5
+  },
+  "10": {
+    "text": 10
+  },
+  "15": {
+    "text": 15
+  },
+  "20": {
+    "text": 20
+  },
+  "25": {
+    "text": 25
+  },
+  "30": {
+    "text": 30
+  },
+  "35": {
+    "text": 35
+  },
+  "click_to_continue": {
+    "text": "CLICK TO START"
+  },
+  "label_windfall_bonus": {
+    "text": "WINDFALL BONUS WIN %winAmount%"
+  },
+
+  "label_totalWin_message": {
+    "text": "TOTAL WIN %winAmount%"
+  },
+
+  "label_windfall_came": {
+    "text": "WINDFALL BONUS!"
+  },
+  "label_bonus_click_to_start": {
+    "text": "PRESS CLICK TO START TO PLAY BONUS"
+  },
+  "label_bonus_click_to_start_hd": {
+    "text": "PRESS SPIN TO PLAY BONUS"
+  },
+  "low_bal_msg_title": {
+    "text": "ERROR"
+  },
+  "low_bal_msg": {
+    "text": "You do not have enough balance to place this bet"
+  },
+  "orientationChange": {
+    "text": "The browser needs to be resized as the current screen dimension is not supported for game play."
+  },
+  "Labels_stakeChangedErrorText": {
+    "text": "The current bet is no longer supported for the play in this game. Press OK to have the Bet selector adjust to the nearest allowed value."
+  },
+  "Labels_stakeWarningText": {
+    "text": "WARNING"
+  },
+  "paytable_windfallPayout_text_1": {
+    "text": "2000 600 200 "
+  },
+  "paytable_windfallPayout_text_2": {
+    "text": "1000 400 160 "
+  },
+  "paytableFour_windfallPayout_text_1": {
+    "text": "800 240 80 "
+  },
+  "paytableFour_windfallPayout_text_2": {
+    "text": "640 192 64 "
+  },
+  "paytableFour_windfallPayout_text_3": {
+    "text": "480 144 48 "
+  },
+  "paytableFive_windfallPayout_text_1": {
+    "text": "400 120 40 "
+  },
+  "paytableFive_windfallPayout_text_2": {
+    "text": "320 96 32 "
+  },
+  "paytableFive_windfallPayout_text_3": {
+    "text": "200 60 20 "
+  },
+  "open_game_title": {
+    "text": "OPEN GAME"
+  },
+  "open_game_msg_title": {
+    "text": "Your game will now resume"
+  },
+  "sound_preference_text": {
+    "text": "Would you like sounds?"
+  },
+  "yes_sound": {
+    "text": "Yes"
+  },
+  "no_sound": {
+    "text": "No"
+  },
+  "bg_sound_off": {
+    "text": "No Music"
+  },
+  "lbl_auto_play_off": {
+    "text": "OFF"
+  },
+  "lbl_auto_play_On": {
+    "text": "ON"
+  },
+  "lbl_ok": {
+    "text": "OK"
+  },
+  "lbl_freeplay_sentence": {
+    "text": "You have %freePlayCounter% FREE PLAYS at %freePlayStake% Stake"
+  },
+  "lbl_slot_machine_sentence": {
+    "text": "Select the SLOT MACHINE icon anytime to Play"
+  },
+  "lbl_freeplay_congratulations": {
+    "text": "CONGRATULATIONS"
+  },
+  "lbl_freeplay_completed": {
+    "text": "Free plays completed"
+  },
+  "lbl_you_have_won": {
+    "text": "You have won"
+  },
+  "lbl_free_play_completed": {
+    "text": "Free Plays Completed"
+  },
+  "lbl_free_plays_left": {
+    "text": "%freePlayCounter% FREE PLAYS left"
+  },
+  "lbl_free_play_resume": {
+    "text": "RESUME PLAY"
+  },
+  "lbl_back_to_game": {
+    "text": "BACK TO GAME"
+  },
+  "lbl_AudioOnAndOff":{
+    "text":"Audio On/Off"
+  },
+  "lbl_BetSettings":{
+    "text":"Bet Settings"
+  },
+  "lbl_NumberOfSpins":{
+    "text":"Number Of Spins"
+  },
+  "lbl_NumberOfSpinsOff":{
+    "text":"OFF"
+  },
+  "lbl_NoLimits":{
+    "text":"NO LIMITS"
+  },
+  "lbl_RealityCheckHeading" : {
+    "text":"REALITY CHECK"
+  },
+  "lbl_RealityCheckText" : {
+    "text":"You have requested Reality Check every \n % minutes  of game play.Your gaming session \n has now reached % minutes"
+  },
+  "lbl_NetworkErrorHeading" : {
+    "text":"CONNECTION ERROR !"
+  },
+  "lbl_NetworkErrorMsg" : {
+    "text":"Unable to connect to the server, please load your game again."
+  },
+  "lbl_ConnectionLossErrorMsg" : {
+    "text":"Security is important to us. As you have been \n inactive for some time we have automatically \n logged you out of your Game Session."
+  },
+  "lbl_ConnectionLossHeading" : {
+    "text":"SECURITY TIMEOUT"
+  },
+
+  "lbl_InSufficientFundErrorHeading" : {
+    "text":"INSUFFICIENT FUND"
+  },
+  "lbl_InSufficientFundErrorMsg" : {
+    "text":"Insufficient funds to complete spin."
+  },
+
+  "lbl_ShowBrokenPopUpHeading" : {
+    "text":"RESUMING PREVIOUS GAME"
+  },
+  "lbl_ShowBrokenPopUpText" :{
+    "text":"We recognize a previous game did not \n complete. We will now resume the game ready \n for you to continue."
+  },
+  "lbl_GameOnIEBrowserErrorMsg":{
+    "text":"We have detected that you are playing game on IE11 browser \n which may cause some sound issues in the game, we recommend you \n to play this game on mainstream browsers for best experience."
+  },
+  "lbl_GameOnUCBrowserErrorMsg":{
+    "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
+  },
+  "lbl_GameOnUnSupportedDevicesErrorMsg":{
+    "text" : "We have detected that you are loading game on iPad2 which is not compatible device to run this game, kindly switch to the higher version device for better experience of this game."
+  },
+  "lbl_GameOnIEBrowserHeading":{
+    "text" : "ALERT"
+  },
+  "lbl_GameOnUCBrowserHeading":{
+    "text" : "ALERT"
+  },
+ "lbl_GameOnUnSupportedDevicesHeading":{
+  "text" : "ALERT"
+  },
+  "lbl_free_spins": {
+    "text": "ILMAISKIERROKSET"
+  }
+}

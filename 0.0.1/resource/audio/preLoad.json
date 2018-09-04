@@ -1,0 +1,194 @@
+{
+  "resources": [
+    "resource\\audio\\preLoad.ogg",
+    "resource\\audio\\preLoad.m4a",
+    "resource\\audio\\preLoad.mp3"
+  ],
+  "spritemap": {
+    "5oak": {
+      "start": 0,
+      "end": 2,
+      "loop": false
+    },
+    "anticipation": {
+      "start": 3,
+      "end": 7.249251700680272,
+      "loop": false
+    },
+    "basegame_intro": {
+      "start": 9,
+      "end": 14.000181405895692,
+      "loop": true
+    },
+    "Bet_Button": {
+      "start": 80,
+      "end": 80.4019954648526,
+      "loop": false
+    },
+    "basegame_loop": {
+      "start": 16,
+      "end": 68.80004535147393,
+      "loop": true
+    },
+    "big_win_loop": {
+      "start": 70,
+      "end": 74.00004535147393,
+      "loop": false
+    },
+    "fs_number_move": {
+      "start": 76,
+      "end": 78.74575963718821,
+      "loop": false
+    },
+    "common_win_end": {
+      "start": 76,
+      "end": 78.74575963718821,
+      "loop": false
+    },
+    "generic_btn": {
+      "start": 80,
+      "end": 80.4019954648526,
+      "loop": false
+    },
+    "mega_big_win_loop": {
+      "start": 82,
+      "end": 86.00004535147393,
+      "loop": false
+    },
+    "puffer_landing": {
+      "start": 88,
+      "end": 88.9752380952381,
+      "loop": false
+    },
+    "Reels_Landing_1_C1-old1": {
+      "start": 90,
+      "end": 90.49984126984127,
+      "loop": false
+    },
+    "Reel_stop": {
+      "start": 92,
+      "end": 92.15043083900227,
+      "loop": false
+    },
+    "Reels_Landing_2_D1-old1": {
+      "start": 94,
+      "end": 94.49984126984127,
+      "loop": false
+    },
+    "Reels_Landing_2_D1": {
+      "start": 96,
+      "end": 96.15043083900227,
+      "loop": false
+    },
+    "Reels_Landing_3_E1-old1": {
+      "start": 98,
+      "end": 98.49984126984127,
+      "loop": false
+    },
+    "Reels_Landing_3_E1": {
+      "start": 100,
+      "end": 100.15043083900227,
+      "loop": false
+    },
+    "Reels_Landing_4_F1-old1": {
+      "start": 102,
+      "end": 102.49984126984127,
+      "loop": false
+    },
+    "Reels_Landing_4_F1": {
+      "start": 104,
+      "end": 104.15043083900227,
+      "loop": false
+    },
+    "Reels_Landing_5_G1-old1": {
+      "start": 106,
+      "end": 106.49984126984127,
+      "loop": false
+    },
+    "Reels_Landing_5_G1": {
+      "start": 108,
+      "end": 108.15043083900227,
+      "loop": false
+    },
+    "Reels_spin1": {
+      "start": 110,
+      "end": 114,
+      "loop": false
+    },
+    "respins_end": {
+      "start": 115,
+      "end": 116.45705215419501,
+      "loop": false
+    },
+    "respins_loop": {
+      "start": 118,
+      "end": 167.81133786848073,
+      "loop": true
+    },
+    "Sharky_Symbol_grinning": {
+      "start": 169,
+      "end": 170.48607709750567,
+      "loop": false
+    },
+    "scatter_landing": {
+      "start": 172,
+      "end": 172.6530612244898,
+      "loop": false
+    },
+    "CS_Spaghetti": {
+      "start": 174,
+      "end": 175.08285714285714,
+      "loop": false
+    },
+    "spaghetti_toggle": {
+      "start": 174,
+      "end": 175.08285714285714,
+      "loop": false
+    },
+    "Spin_button": {
+      "start": 177,
+      "end": 178.2016326530612,
+      "loop": false
+    },
+    "super_big_win_loop": {
+      "start": 180,
+      "end": 184.00004535147391,
+      "loop": false
+    },
+    "transition_1": {
+      "start": 186,
+      "end": 187.544126984127,
+      "loop": false
+    },
+    "ultra_big_win_loop": {
+      "start": 189,
+      "end": 193.00004535147391,
+      "loop": false
+    },
+    "line_win": {
+      "start": 195,
+      "end": 196.5,
+      "loop": false
+    },
+    "wild_move": {
+      "start": 198,
+      "end": 199.33514739229025,
+      "loop": true
+    },
+    "wild_scale": {
+      "start": 201,
+      "end": 202.41061224489795,
+      "loop": false
+    },
+    "wintickup_center": {
+      "start": 204,
+      "end": 206,
+      "loop": false
+    },
+    "win_fade": {
+      "start": 207,
+      "end": 208.61378684807255,
+      "loop": false
+    }
+  }
+}
